@@ -83,8 +83,10 @@ This repository contains **responsive, branded, and policy-compliant financial f
 
 ## 🖼️ Screenshots
 
-
+### ✅ Form Logo
 - ![Logo Preview](img/logo.png)
+
+### ✅ Dynamic Cheque Request Sample
 - ![Cheque Request Sample](img/shot1.png)
 
 ---
